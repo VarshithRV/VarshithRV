@@ -16,5 +16,4 @@
 <a href="https://linkedin.com/in/varshith-r-v-28b636259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varshith-r-v-28b636259" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshithrv&show_icons=true&locale=en&layout=compact" alt="varshithrv" /></p>
 
